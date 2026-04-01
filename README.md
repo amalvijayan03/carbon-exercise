@@ -17,7 +17,7 @@ Choose:
 
 Framework: React
 
-Variant: JavaScript or TypeScript
+Variant: JavaScript 
 
 📦 2. Install Carbon Packages
 
