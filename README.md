@@ -88,13 +88,6 @@ function App() {
     </>
   );
 }
-📁 Suggested Folder Structure
-src/
- ├── components/
- ├── pages/
- ├── layouts/
- ├── App.jsx
- └── main.jsx
 ⚡ 7. Run the App
 npm run dev
 🧠 Tips for Production Setup
@@ -108,11 +101,3 @@ Use their accessibility-first components (built-in 👍)
 Consider integrating with:
 
 React Router for navigation
-
-Redux Toolkit if needed
-
-🎯 Alternative: Official Carbon Template
-
-IBM also provides starter repos. You can search for:
-
-“carbon react starter github”
