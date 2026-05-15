@@ -94,7 +94,7 @@ npm run dev
 
 Use SCSS tokens if you want deeper customization
 
-Follow Carbon’s grid (@carbon/grid) for layout
+Follow Carbon’s grid (@carbon/grid) for layout - understand carbon grid and flex layout in detail
 
 Use their accessibility-first components (built-in 👍)
 
