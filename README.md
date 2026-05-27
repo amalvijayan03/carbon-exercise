@@ -91,6 +91,7 @@ function App() {
 ⚡ 7. Run the App
 npm run dev
 🧠 Tips for Production Setup
+setup carbon mcp 
 
 Use SCSS tokens if you want deeper customization
 
