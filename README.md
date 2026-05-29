@@ -102,3 +102,13 @@ Use their accessibility-first components (built-in 👍)
 Consider integrating with:
 
 React Router for navigation
+
+carbon MCP setups
+
+Follow these steps to configure your AI application or AI agent to use Carbon MCP.
+
+Step 1: Using your w3id or functional ID
+Step 2: Getting access credentials
+Step 3: Connecting to IBM Bob and other MCP clients
+Step 4: Adding the carbon-builder skill
+
