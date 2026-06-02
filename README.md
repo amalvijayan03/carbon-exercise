@@ -89,6 +89,7 @@ function App() {
   );
 }
 ⚡ 7. Run the App
+
 npm run dev
 🧠 Tips for Production Setup
 setup carbon mcp 
@@ -111,4 +112,8 @@ Step 1: Using your w3id or functional ID
 Step 2: Getting access credentials
 Step 3: Connecting to IBM Bob and other MCP clients
 Step 4: Adding the carbon-builder skill
+
+There are two steps required to set up Carbon MCP in Bob. First, you need to install Carbon MCP from the Bob Marketplace. Then, you need to install the
+
+carbon-builder skill
 
